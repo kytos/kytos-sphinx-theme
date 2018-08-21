@@ -145,6 +145,37 @@ div.content {
  margin: 0;
 }
 
+#kytos-theme-content-container table th {
+  font-weight: bold;
+  background: #efefef;
+}
+
+#kytos-theme-content-container table tr.row-odd {
+  background: #f1f1f1;
+}
+
+#kytos-theme-content-container table {
+  font-size: 1.2em;
+}
+
+#kytos-theme-content-container h3 {
+  font-size: 2em;
+  border-bottom: 1px solid #68286A;
+  color: #68286A;
+  margin-top: 2em;
+}
+
+#kytos-theme-content-container h4 { color: #000; }
+
+#kytos-theme-content-container strong { color: #68286A; }
+
+#kytos-theme-content-container img {
+  box-shadow: 0px 0px 10px #000;
+  margin: 0.5em;
+  padding: 1em;
+  background: #333;
+}
+
 #sidebar.affix { position: relative; }
 
 div.sphinxsidebar {
