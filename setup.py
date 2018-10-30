@@ -12,7 +12,7 @@ with codecs.open('README.rst', encoding='utf-8') as f:
 
 setup(
     name='kytos_sphinx_theme',
-    version='0.0.6',
+    version='0.0.7',
     description=' Kytos Sphinx Theme',
     long_description=readme,
     install_requires=install_reqs,

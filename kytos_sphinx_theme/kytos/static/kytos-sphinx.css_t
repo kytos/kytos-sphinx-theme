@@ -13,6 +13,7 @@
 @import url("./bootstrap/css/bootstrap.min.css");
 @import url("./kytos/kytos.css");
 @import url("./kytos/solarized-dark.css");
+@import url("./kytos/print.css") print;
 
 /*
  * Styles
