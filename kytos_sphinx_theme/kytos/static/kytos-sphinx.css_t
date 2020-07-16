@@ -132,7 +132,7 @@ div.content {
 }
 
 #kytos-theme-content-container div.figure {
-  float: left;
+  float: none;
 }
 
 #kytos-theme-content-container .highlight {
