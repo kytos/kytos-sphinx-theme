@@ -81,7 +81,10 @@ a {
 
 .head p {
     font-weight: bold;
+    color: rebeccapurple;
 }
+
+
 
 code,
 .rst-content tt,
