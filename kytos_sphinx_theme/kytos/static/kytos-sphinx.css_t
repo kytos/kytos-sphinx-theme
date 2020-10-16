@@ -74,6 +74,15 @@ a {
   font-weight: 500;
 }
 
+/*Table head style*/
+.head {
+    text-align:center !important;
+}
+
+.head p {
+    font-weight: bold;
+}
+
 code,
 .rst-content tt,
 .rst-content code {
