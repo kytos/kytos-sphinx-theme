@@ -34,12 +34,18 @@ Installation from `PyPI` is fairly straightforward:
 Details of Kytos Sphinx Theme 
 *****************************
 
-Here you'll find some directions and tips about the Kytos Sphinx Theme customization. It can all be done right after cloning or forking this repository.
+Here you'll find some directions and tips about the Kytos Sphinx Theme
+customization. It can all be done right after cloning or forking this
+repository.
 
-First of all, your local `sphinx-theme` repository must be the source for building the documentation. To install it, run `python setup.py develop` in the root of this repository.
+First of all, your local `sphinx-theme` repository must be the source for
+building the documentation. To install it, run `python setup.py develop` in the
+root of this repository.
 
 **CSS Style**
 
-To add some new CSS code, the file that should be edited is `kytos-sphinx.css_t`, and it can be found in this repository in `../kytos_sphinx_theme/kytos/static/` path. 
+To add some new CSS code, the file that should be edited is
+`kytos-sphinx.css_t`, and it can be found in this repository in
+`../kytos_sphinx_theme/kytos/static/` path. 
 
 Now the updates can be seen by using`make` in `../kytos/kytos/docs` path.
