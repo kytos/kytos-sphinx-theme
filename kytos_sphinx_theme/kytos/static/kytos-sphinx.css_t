@@ -83,6 +83,28 @@ a {
     font-weight: bold;
 }
 
+/*Kytos Variables Colors of UI*/
+
+.hexa {
+  font-family: monospace;
+}
+
+.kytos-white { font-weight: bold; }
+.kytos-dark-white { color: #CCC; font-weight: bold; }
+.kytos-black { color: #222; font-weight: bold; }
+.kytos-gray  { color: #515151; font-weight: bold; }
+.kytos-light-gray  { color: #b3b3b3; font-weight: bold; }
+.kytos-medium-gray { color:  #414141; font-weight: bold; }
+.kytos-dark-gray  { color: #313131; font-weight: bold; }
+.kytos-extra-dark  { color: #2a2a2a; font-weight: bold; }
+.kytos-purple  { color: #554077; font-weight: bold; }
+.kytos-dark-purple { color:  #322c5d; font-weight: bold; }
+.kytos-blue  { color: #008690; font-weight: bold; }
+.kytos-dark-blue { color: #233f55; font-weight: bold; }  
+.kytos-green  { color: #8bc34a; font-weight: bold; }
+.kytos-yellow  { color: #f9a825; font-weight: bold; }
+.kytos-red  { color: #dd2c00; font-weight: bold; }
+
 code,
 .rst-content tt,
 .rst-content code {
